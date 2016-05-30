@@ -1,3 +1,3 @@
-# arduinoMegaDev
-using enc28j60 with arduino with atmel studio using arduino sketch
-serving data from sd card to local network
+# Ethernet using Arduino Mega and ENC28J60
+* Done in Arduino 
+* Mega acts as a server serving the contents of SD card from music to even low res video stream.
